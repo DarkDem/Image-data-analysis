@@ -1,0 +1,18 @@
+V2.01_img_info	
+mapname	image scan
+objective	10X
+lambda (nm)	658.0
+power %	50
+gain %	100
+pl °	2.000
+co °	-0.000
+al °	10.000
+aoi °	53.100
+pi(mn/m)	15
+trough_area(cm^2)	319
+date	8/22/2013 7:41:34 PM
+zunit	graylevel
+xyunit	microns
+xscale	0.455405
+yscale	0.455405
+maptype	0
